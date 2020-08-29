@@ -16,3 +16,6 @@ The goals of this challenge:
 
 
 Mapping Earthquakes Image
+
+![](Images/Tectonic_Plates.png)
+
