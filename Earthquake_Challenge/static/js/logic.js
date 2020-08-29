@@ -113,7 +113,7 @@ let tectData =
 
 //Create style for plate lines
 let tectStyle = {
-  color: "#39ff14",
+  color: "#ff6601",
   weight: 2,
 };
 
